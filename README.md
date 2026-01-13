@@ -2,6 +2,8 @@
 
 This project sets up a **Flask web server on a Raspberry Pi 2W running Raspberry Pi OS Lite (32-bit)**. The server hosts a login page and provides secure web-based control of stepper motors connected to the Pi's GPIO pins.
 
+Made by Amal Dutt Mantrala and Priyanshu Sarkar
+
 ---
 
 ## 🧰 Features
